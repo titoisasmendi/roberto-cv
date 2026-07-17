@@ -9,7 +9,7 @@ export const RESUME_DATA: ResumeData = {
     "Customer Success Manager and Product Owner for Web3 and fintech SaaS.",
   summary:
     "Customer Success Manager and Product Owner with 5+ years across Web3, fintech, and SaaS, all remote. I run onboarding, retention, and analytics, and I build internal tooling that turns customer data into revenue. Bilingual Spanish and English, with professional Portuguese.",
-  avatarUrl: "",
+  avatarUrl: "/roberto.jpg",
   personalWebsiteUrl: "",
   contact: {
     email: "robertoisasmendis@gmail.com",
@@ -17,12 +17,12 @@ export const RESUME_DATA: ResumeData = {
     social: [
       {
         name: "GitHub",
-        url: "https://github.com/YOUR_GITHUB_USERNAME",
+        url: "https://github.com/titoisasmendi",
         icon: "github",
       },
       {
         name: "LinkedIn",
-        url: "https://www.linkedin.com/in/YOUR_LINKEDIN",
+        url: "https://linkedin.com/in/roberto-isasmendi",
         icon: "linkedin",
       },
     ],
