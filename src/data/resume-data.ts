@@ -52,10 +52,10 @@ export const RESUME_DATA: ResumeData = {
       description:
         "Customer success and operations for a Web3 incentives and referral SaaS platform.",
       highlights: [
-        "Manage a book of business of roughly USD 900k ARR across 21 accounts",
-        "Cut onboarding from 3 weeks to 1 week by standardizing the launch playbook",
-        "Grew MRR of live clients 150% and extended average customer lifetime from 3 to 9 months",
-        "Built an internal CS operations system on Claude Code that cut biweekly client reviews from about 10 hours of manual work to 10 minutes, surfacing expansion signals early",
+        "Grew MRR of live clients 150% and tripled average customer lifetime",
+        "Held annual churn at 10% while owning onboarding, retention, and expansion across the account base",
+        "Cut onboarding time by roughly two thirds by standardizing the launch playbook",
+        "Built an internal CS operations system on Claude Code that cut biweekly client review time by about 98%, from hours of manual work to minutes, surfacing expansion signals early",
       ],
     },
     {
@@ -109,12 +109,6 @@ export const RESUME_DATA: ResumeData = {
       techStack: ["Claude Code", "Python", "SQL", "Pipedrive"],
       description:
         "Internal skills that automate client health checks, program reviews, and meeting logging, turning customer data into retention and expansion signals.",
-    },
-    {
-      title: "Job Hunter Agent",
-      techStack: ["Python", "Claude Code", "Telegram"],
-      description:
-        "Autonomous pipeline that scrapes job postings and drafts tailored resumes, cover letters, and outreach.",
     },
   ],
 } as const;
